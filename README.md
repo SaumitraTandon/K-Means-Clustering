@@ -56,5 +56,3 @@ After running the notebook, you will obtain visualizations of the clustered data
 ## Contributing
 
 Contributions are welcome! If you have any ideas to improve this project, feel free to fork the repository and submit a pull request. Please ensure that your contributions are well-documented and adhere to the project's coding standards.
-
-You can refine this README by providing more details or customizing it to your specific needs.
