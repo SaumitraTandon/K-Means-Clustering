@@ -1,6 +1,6 @@
 # K-Means Clustering
 
-This project demonstrates the implementation of the K-Means Clustering algorithm using Python. K-Means is an unsupervised machine learning algorithm used for clustering data points into distinct groups based on their similarities. This notebook contains all the steps needed to perform clustering on a dataset, from data preprocessing to visualization of the clusters.
+This project demonstrates the implementation of the K-Means Clustering algorithm using Python & R. K-Means is an unsupervised machine learning algorithm used for clustering data points into distinct groups based on their similarities. This notebook contains all the steps needed to perform clustering on a dataset, from data preprocessing to visualization of the clusters.
 
 ## Table of Contents
 
